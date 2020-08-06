@@ -1,0 +1,106 @@
+{
+	"id": "ab059959-5915-4365-948e-c71cca517214",
+	"name": "Designing an API",
+	"timestamp": "2020-08-06T02:30:50.628Z",
+	"collection_id": "b29a2d7e-6cd9-40d3-b06c-629214148063",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "7c5c20b6-d309-4ae4-8d3f-c51fdd9a2a01",
+			"name": "Postman Echo GET",
+			"url": "https://postman-echo.com/get",
+			"time": 1459,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1459
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "fb10719d-06b2-4eef-aace-af34dd39a05c",
+			"name": "Postman Echo POST",
+			"url": "https://postman-echo.com/post",
+			"time": 315,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				315
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "254d4080-28e4-4efc-8845-30929f5d3a35",
+			"name": "Postman Echo PUT",
+			"url": "https://postman-echo.com/put",
+			"time": 307,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				307
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "86ad8bf7-f1ce-4f8c-b3eb-33442db2cb97",
+			"name": "Postman Echo DELETE",
+			"url": "https://postman-echo.com/delete",
+			"time": 308,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				308
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2389,
+	"collection": {
+		"requests": [
+			{
+				"id": "7c5c20b6-d309-4ae4-8d3f-c51fdd9a2a01",
+				"method": "GET"
+			},
+			{
+				"id": "fb10719d-06b2-4eef-aace-af34dd39a05c",
+				"method": "POST"
+			},
+			{
+				"id": "254d4080-28e4-4efc-8845-30929f5d3a35",
+				"method": "PUT"
+			},
+			{
+				"id": "86ad8bf7-f1ce-4f8c-b3eb-33442db2cb97",
+				"method": "DELETE"
+			}
+		]
+	}
+}
